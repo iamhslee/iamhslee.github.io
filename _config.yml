@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko-KR"
 title                    : "LEELOG"
 title_separator          : "|"
-subtitle                 : "배워서 남주자"
+subtitle                 : "학부생의 필기 노트"
 name                     : "Hyunseo Lee"
-description              : "Personal Blog"
+description              : "Personal Blog & Portfolio"
 url                      : "https://xurhee.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "xurhee/xurhee.github.io"
@@ -104,8 +104,8 @@ analytics:
 author:
   name             : "Hyunseo Lee (이현서)"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "A undergraduate student in **HGU**, 🇰🇷"
-  location         : "Handong Global University"
+  bio              : "A undergraduate student in **HGU**"
+  location         : "Republic of Korea"
   email            : 
   links:
     - label: "Email"
