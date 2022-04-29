@@ -1,5 +1,5 @@
 ---
-title: "Markup: Text Alignment"
+title: "layout-header-image-text-readability"
 categories:
   - Markup
 tags:
