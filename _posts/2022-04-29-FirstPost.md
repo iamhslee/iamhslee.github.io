@@ -1,14 +1,26 @@
 ---
-title:  "github.io 블로그  첫 글"
-excerpt: "github.io 블로그 첫 글 작성해봅니다."
+title:  "Github Pages 블로그 시작"
+excerpt: "Jekyll과 Minimal Mistakes 테마를 활용한 Github Pages 테크 블로그 시작"
 categories:
-  - Blog
+  - Blog Jekyll
 tags:
-  - Blog
+  - Blog Jekyll MinimalMistakes
 
-last_modified_at: 2019-04-13T08:06:00-05:00
+last_modified_at: 2022-04-30
 ---
-글작성하기 위해 마크다운을 공부해서 
-좋은 글들을 작성해 보자.
-이 글의 제목은 {{ page.title }}이고
-마지막 수정 시간은 {{ page.last_modified_at }}이다.
+
+## 안녕하세요 👋
+
+저는 한동대학교에서 AI컴퓨터공학심화를 전공중인 **이현서** 입니다!
+
+학교에서 배운 내용을 정리하고, 기록해두기 위해 Github Pages를 사용하게 되었습니다.
+
+앞으로,
+
+* 👨‍💻 개발 환경
+* 💡 유용한 팁
+* 👨‍🏫 수업 내용과 CS 지식
+
+등등 다양한 글을 이 블로그에 올려보려고 합니다 :)
+
+감사합니다 🙇‍♂️
