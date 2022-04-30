@@ -2,9 +2,11 @@
 title:  "Github Pages 블로그 시작"
 excerpt: "Jekyll과 Minimal Mistakes 테마를 활용한 Github Pages 테크 블로그 시작"
 categories:
-  - Blog Jekyll
+  - Blog
 tags:
-  - Blog Jekyll MinimalMistakes
+  - Blog
+  - Jekyll
+  - Minimal Mistakes
 
 last_modified_at: 2022-04-30
 ---
